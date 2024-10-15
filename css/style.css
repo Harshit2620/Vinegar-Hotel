@@ -1,0 +1,47 @@
+/* ===============Contact Page Style=================== */
+
+#contact{
+    background-image: url('../images/yellow1.png');
+    height: 250px;
+    background-size: cover;
+}
+
+#contact .col-sm-12{
+    background-color: rgba(212, 218, 151, 0.322);
+}
+
+#contact .col-sm-12 h1{
+    line-height: 240px;
+}
+
+
+
+/* ===============Contact Page Style=================== */
+
+
+.text-justify{
+    text-align: justify;
+}
+
+.mybtn:hover{
+    color: gold;
+    font-weight: 500;
+}
+
+.mybtn:hover i{
+    margin-left: 15px;
+
+}
+
+.mybtn i{
+    transition:0.5s ease;
+}
+
+.welcome{
+    font-family: monotype corsiva;
+    color: navy;
+}
+
+.head-ab{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
